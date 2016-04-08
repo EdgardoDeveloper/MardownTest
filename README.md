@@ -4,20 +4,23 @@
 ## Texto H2
 ### Texto H3
 
+Tareas:
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 
 ####Listas 
 
 Sin Orden 
-	* Uno
-	* Dos 
-	* Tres
-	.. * Tres punto uno
-	.. * Tres punto dos
+* uno
+* dos
 
 Con Orden
-	1. Uno
-	2. Dos
-	3. etc...
+1. uno
+2. dos
+3. tres
 
 
 ####Codigo:
