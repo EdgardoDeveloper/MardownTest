@@ -1,6 +1,10 @@
 # MardownTest
 
 
+## Scope javaScript
+
+Scope en javascript es un poco diferente al de C#, C++, etc, javascript no tiene el concepto de  llaves "{ }" 
+
 
 # Texto H1
 ## Texto H2
