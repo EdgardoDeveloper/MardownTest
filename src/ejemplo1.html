@@ -3,8 +3,24 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<script> 
+
+//Variable Global
+var num = 7;
+
+function demonstrateScopingAndHoisting() {
+	if (true) {
+  	//Variable elevada al scope de la funcion. (Hoisting)
+  	var num = 42;
+  }
+  //Dentro del scope de la funcion muestra 42 y no el valor de la variable global
+  alert(num);
+}
+
+demonstrateScopingAndHoisting();
+</script>
+
 </head>
 <body>
-	
 </body>
 </html>
